@@ -1,6 +1,6 @@
 # Fomo3D-Terminator
 
-![Demo]https://github.com/Umiiii/Fomo3D-Terminator/blob/master/demo.png
+![Demo](https://github.com/Umiiii/Fomo3D-Terminator/blob/master/demo.png)
 
 Fomo3D-Terminator is a toolkit that can help you to buy the last key of Fomo3D games in the Ethereum. Web3 is used for interact with Ethereum contract interaction. Give me star if you like it.
 
@@ -37,4 +37,3 @@ Not sure if Windows also works.
 - [ ] Asynchronous transaction query.
 - [ ] More safer ways to make transaction.
 - [ ] Multiple RPC support.
-
